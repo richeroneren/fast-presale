@@ -26,7 +26,7 @@
     "coverage": "RUN_COVERAGE=1 hardhat coverage",
     "docs": "hardhat docgen"
   },
-  "devDependencies": {
+  "dependencies": {
     "@chainlink/contracts": "^0.3.1",
     "@nomiclabs/hardhat-ethers": "npm:hardhat-deploy-ethers",
     "@nomiclabs/hardhat-etherscan": "^2.1.6",
